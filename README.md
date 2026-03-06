@@ -1,4 +1,4 @@
-#Pixel Manipulation for Image Encryption.
+**Pixel Manipulation for Image Encryption.**
 
 A simple Python project that demonstrates **basic image encryption using pixel manipulation**.
 The program encrypts an image by randomly swapping pixel positions based on a **key**, and decrypts it by reversing the swaps using the same key.
@@ -28,9 +28,9 @@ Because the random swaps are generated using the same key, the original image ca
 Install required libraries:
 pip install pillow numpy
 
-## ▶️ How to Run
+▶️ How to Run
 
-Run the script:
+Run the script: https://github.com/Ghanshyam-Bind/pixel_manipulation.git
 
 task-2.py
 
@@ -48,7 +48,7 @@ Encrypt image:-
 
 Encrypt or Decrypt (e/d): e
 
-Enter image path: Original.jpg
+Enter image path: Original.jpg                           .....(please remove the quotes after paste path of image)
 
 Enter key: 10
 
@@ -62,7 +62,7 @@ Decrypt image:-
 
 Encrypt or Decrypt (e/d): d
 
-Enter image path: encrypted_image.png
+Enter image path: encrypted_image.png                     .....(please remove the quotes after paste path of image)
 
 Enter key: 10
 
