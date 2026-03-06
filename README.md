@@ -37,7 +37,9 @@ task-2.py
 Program will ask:
 
 Encrypt or Decrypt (e/d):
+
 Enter image path:
+
 Enter key:
 
 💻 Example
@@ -45,21 +47,29 @@ Enter key:
 Encrypt image:-
 
 Encrypt or Decrypt (e/d): e
+
 Enter image path: Original.jpg
+
 Enter key: 10
+
 Encrypted image saved as encrypted_image.png
 
 Output:
+
 encrypted_image.png
 
 Decrypt image:-
 
 Encrypt or Decrypt (e/d): d
+
 Enter image path: encrypted_image.png
+
 Enter key: 10
+
 Decrypted image saved as decrypted_image.png
 
 Output:
+
 decrypted_image.png
 
 🎯 Learning Outcomes
